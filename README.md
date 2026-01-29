@@ -1,15 +1,13 @@
-# Init IS310 Homework
+# IS 310 – Coding Assignments
 
-## Proof of Installation
+## About This Repository
 
-1. Python
+This repository contains my coding assignments for **IS 310: Computing in the Humanities**
+at the University of Illinois Urbana-Champaign.
 
-![Python Installation](images/python-installation.png)
+Each assignment is organized in its own folder.
 
-2. Git
+## Assignments
 
-![Git Installation](images/git-installation.png)
-
-3. VS Code
-
-![VS Code Installation](images/vscode-installation.png)
+- init_is310 — Initial GitHub and Markdown setup
+- 
