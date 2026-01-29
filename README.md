@@ -11,3 +11,7 @@ Each assignment is organized in its own folder.
 
 - init_is310 — Initial GitHub and Markdown setup
 - 
+
+## Course Website
+
+- [https://cultureasdata-uiuc.github.io/is310-spring-2026/]
