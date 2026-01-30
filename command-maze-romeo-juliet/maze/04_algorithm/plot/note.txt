@@ -1,0 +1,6 @@
+You are reading the story, but the algorithm does not care about plot.
+
+This level is about counting signals (repeated names),
+not interpreting events.
+
+Go back and choose the other door.

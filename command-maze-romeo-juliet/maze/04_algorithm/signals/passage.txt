@@ -1,0 +1,12 @@
+Correct door.
+
+After you compute CODE5, your next task is to find a hidden directory
+that contains the FINAL KEY.
+
+Reminder:
+Hidden directories start with a dot (.)
+
+Next step (example command):
+find .. -maxdepth 2 -type d -name ".*"
+
+Then enter the hidden directory and read final_key.txt.

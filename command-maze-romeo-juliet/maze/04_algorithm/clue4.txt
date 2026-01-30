@@ -1,0 +1,24 @@
+LEVEL 4: Algorithmic Signals
+
+Algorithms reward repeated signals.
+In stories, character names act like signals.
+
+CHALLENGE (CODE5):
+
+Count the occurrences of the whole word "Romeo" and the whole word "Juliet"
+in romeo_juliet.txt.
+
+Rules:
+- Case-insensitive
+- Whole-word matches only
+
+CODE5 = (count of Romeo) - (count of Juliet)
+
+Hint:
+You may need to run similar commands more than once
+and compare the results.
+
+Once you have CODE5, return to this directory.
+
+Do NOT jump ahead.
+Explore the doors here to determine your next step.

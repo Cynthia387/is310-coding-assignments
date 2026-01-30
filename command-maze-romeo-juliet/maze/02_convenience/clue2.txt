@@ -1,0 +1,27 @@
+LEVEL 2: Convenience Narrative
+
+Single-serving meal videos often emphasize speed and immediacy.
+
+CHALLENGE (CODE3):
+
+Find the FIRST line number where the word "quick" appears
+in romeo_juliet.txt.
+
+Rules:
+- The search should be case-insensitive
+- Count only whole-word matches
+- Use only the first occurrence
+
+CODE3 = the line number of the first match.
+
+Hint:
+Look for a command that prints line numbers,
+then keep only the first result.
+
+Once you have CODE3, do NOT move to the next level directly.
+
+Instead:
+This directory contains several doors (subfolders).
+Only ONE door contains the passage forward.
+
+Explore them using the command line.

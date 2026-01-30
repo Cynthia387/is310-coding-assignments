@@ -1,0 +1,7 @@
+Correct door.
+
+Before moving forward, make sure you completed LEVEL 1 and have CODE2.
+
+Next step:
+Go to the next level directory and open its clue file:
+../02_convenience/clue2.txt

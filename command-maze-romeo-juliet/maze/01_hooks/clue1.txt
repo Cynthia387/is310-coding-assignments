@@ -1,0 +1,27 @@
+LEVEL 1: Hooks and Repetition
+
+On short-video platforms like TikTok, repetition is a key hook.
+
+CHALLENGE (CODE2):
+
+Using the file romeo_juliet.txt, find how many times the word
+"love" appears in the text.
+
+Rules:
+- The search should be case-insensitive
+- Count only the word "love", not parts of other words
+
+CODE2 = total number of occurrences of "love"
+
+Hint:
+You may need to combine a command that searches text
+with a command that counts lines.
+
+Once you have CODE2, do NOT move to the next level directly.
+
+Instead:
+In this directory, there are several doors (subfolders).
+Only ONE door leads forward.
+
+Use the command line to explore them and find the passage
+that tells you where to go next.

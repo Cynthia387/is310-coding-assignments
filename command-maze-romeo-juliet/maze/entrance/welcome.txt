@@ -1,0 +1,29 @@
+Welcome to the Command Maze: Romeo and Juliet
+
+This maze can only be solved using the command line.
+
+RULES:
+- Use commands like ls, cd, cat, less, grep, wc
+- Follow the clues step by step
+- Do not jump ahead
+
+ENTRANCE CHALLENGE (CODE1):
+
+Inside this folder, there is a file called romeo_juliet.txt.
+
+Find the line that contains the phrase:
+"Two households"
+
+Question:
+What is the LINE NUMBER where this phrase appears?
+
+CODE1 = that line number.
+
+Hint:
+Use a command that can search text and show line numbers.
+
+Once you have CODE1, move to:
+../01_hooks/
+
+and open:
+clue1.txt

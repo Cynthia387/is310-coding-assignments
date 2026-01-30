@@ -1,0 +1,26 @@
+LEVEL 3: Format and Structure
+
+Short-form content relies on recognizable formats.
+Plays also follow strict structural patterns.
+
+CHALLENGE (CODE4):
+
+In romeo_juliet.txt, ACT headings define the structure
+(e.g., ACT I, ACT II, ACT III).
+
+Find how many UNIQUE ACT headings appear in the text.
+
+CODE4 = number of unique ACT headings.
+
+Hint:
+- Extract only lines that start with ACT
+- Remove duplicates
+- Count the remaining lines
+
+Once you have CODE4, do NOT proceed directly.
+
+Instead:
+There are doors (subfolders) in this directory.
+Only one door leads forward.
+
+Use the command line to explore and determine the correct path.

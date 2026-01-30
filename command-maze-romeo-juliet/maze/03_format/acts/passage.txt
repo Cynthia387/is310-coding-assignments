@@ -1,0 +1,8 @@
+Correct door.
+
+You are focusing on structure at the right level.
+
+Make sure you completed LEVEL 3 and have CODE4.
+
+Next level:
+Go to ../04_algorithm/ and open clue4.txt

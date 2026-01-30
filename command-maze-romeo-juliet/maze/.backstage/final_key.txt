@@ -1,0 +1,25 @@
+FINAL KEY — Exit Instructions
+
+You have collected all five codes:
+CODE1, CODE2, CODE3, CODE4, CODE5
+
+To unlock the exit, you must create a file called:
+
+unlock.txt
+
+inside the exit directory.
+
+The content of unlock.txt must be exactly:
+
+CODE1-CODE2-CODE3-CODE4-CODE5
+
+(use hyphens, no spaces)
+
+Hint:
+Use a command-line tool to write text into a file.
+
+Once this file exists, go to:
+../exit/
+
+and read:
+solution.txt

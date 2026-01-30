@@ -1,0 +1,5 @@
+The masquerade is dramatic, but not useful here.
+
+This level is about finding a FIRST match (a line number),
+not reading plot events.
+Go back and try a different door.

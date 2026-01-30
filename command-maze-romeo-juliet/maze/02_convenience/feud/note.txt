@@ -1,0 +1,4 @@
+This door leads to conflict, not speed.
+
+You are looking for the FIRST occurrence of a word in the text.
+Return and choose another door.

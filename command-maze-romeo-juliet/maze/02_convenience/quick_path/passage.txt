@@ -1,0 +1,6 @@
+Correct door.
+
+Make sure you completed LEVEL 2 and have CODE3.
+
+Next level:
+Go to ../03_format/ and open clue3.txt

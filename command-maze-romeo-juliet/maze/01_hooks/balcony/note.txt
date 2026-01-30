@@ -1,0 +1,4 @@
+You found the balcony… but this is not the right path.
+
+This maze is not asking about locations in the play.
+Return to the previous directory and try another door.

@@ -1,0 +1,14 @@
+🎉 CONGRATULATIONS — YOU ESCAPED THE MAZE!
+
+You successfully navigated the Command Maze: Romeo and Juliet.
+
+If you created unlock.txt with the correct format,
+you have demonstrated the ability to:
+
+- Navigate nested directories
+- Search large text files using the command line
+- Extract and interpret cultural patterns from text data
+- Combine multiple command-line tools to solve problems
+
+
+Thank you for playing!
