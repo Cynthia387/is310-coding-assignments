@@ -1,12 +1,9 @@
 # Harry Potter Wiki — Magical Creatures Web Scraping
 
 ## Why This Wiki and Dataset
-The Harry Potter Wiki (harrypotter.fandom.com) is one of the largest fan-maintained
-encyclopedias for the Harry Potter universe, documenting creatures from the original
-books, films, and spin-off works such as Fantastic Beasts.
+The Harry Potter Wiki (harrypotter.fandom.com) is one of the largest fan-maintained encyclopedias for the Harry Potter universe, documenting creatures from the original books, films, and spin-off works such as Fantastic Beasts. And I'm really interested in this series myself.
 
-This project scrapes data on magical creatures, including their habitats, danger
-classifications, physical characteristics, and conservation status.
+This project scrapes data on magical creatures, including their habitats, danger classifications, physical characteristics, and conservation status.
 
 This dataset could be of interest to researchers for several reasons:
 - Analyzing the distribution of danger ratings (X to XXXXX) across creature types
@@ -17,10 +14,7 @@ This dataset could be of interest to researchers for several reasons:
 
 ## robots.txt Compliance
 robots.txt: https://harrypotter.fandom.com/robots.txt  
-Under `User-agent: *`, the `/wiki/` path is not disallowed, meaning general
-web crawlers are permitted to access creature pages. The `/api.php` endpoint
-is also explicitly allowed. No `Crawl-delay` is specified for general crawlers.
-A 0.5-second delay was added between requests out of courtesy.
+Under `User-agent: *`, the `/wiki/` path is not disallowed, meaning general web crawlers are permitted to access creature pages. The `/api.php` endpoint is also explicitly allowed. No `Crawl-delay` is specified for general crawlers. A 0.5-second delay was added between requests out of courtesy.
 
 Note: `GPTBot` (used for AI training) is fully disallowed, which does not
 apply to this scraping script used for academic research purposes.
